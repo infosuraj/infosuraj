@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer and Freelance Artist
 -----------------------------------------
 
-I'm M Suraj Kumar, a 21-year-old self-taught designer, full- stack developer, and freelance artist. I specialize in 3D design, web app development, and UI/UX design, always staying updated with the latest trends and passionate about bringing innovative ideas to life.
+ My Self M Suraj Kumar, a 21-year-old self-taught designer, full- stack developer, and freelance artist. I specialize in 3D design, web app development, and UI/UX design, always staying updated with the latest trends and passionate about bringing innovative ideas to life.
 
 * 🌍  I'm based in Odisha, India
 * 🖥️  See my portfolio at [Resume](http://acrobat.adobe.com/id/urn:aaid:sc:US:9a772609-60d0-4966-b1a0-1031438c2cf9)
