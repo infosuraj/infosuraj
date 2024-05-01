@@ -4,9 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer and Freelance Artist
 -----------------------------------------
 
- My Self M Suraj Kumar, a 21-year-old self-taught designer, full- stack developer, and freelance artist. I specialize in 3D design, web app development, and UI/UX design, always staying updated with the latest trends and passionate about bringing innovative ideas to life.
+Computer Science graduate ( March 2024, Berhampur University ) seeking a software engineering role. Proven track record in freelance web and graphic design, delivering projects for clients with a 25% increase in customer engagement and a 35% growth in brand recognition. Familiar with HTML5/CSS3, JavaScript, C++, MERN Stack.
 
-* 🌍  I'm based in Odisha, India
+Highlights:
+
+Completed 30+ graphic and web design projects over the past three years.
+History of client satisfaction with 90% providing positive feedback.
+Demonstrated ability to meet deadlines and stay under budget (15%).
+Passionate about delivering innovative and user-centric solutions. Eager to learn, collaborate, and apply my diverse skillset in a software engineering position.
+
+Contact: info.msurajkumarr@gmail.com
+
+* 🌍  I'm based in Hyderabad, TL, India
 * 🖥️  See my portfolio at [Resume](http://acrobat.adobe.com/id/urn:aaid:sc:US:9a772609-60d0-4966-b1a0-1031438c2cf9)
 * 🚀  I'm currently working on [An Ecommerce website](http://github.com/infosuraj/rainbowclothing)
 * 🧠  I'm learning React.js, TypeScript
