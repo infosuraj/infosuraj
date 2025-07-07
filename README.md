@@ -4,7 +4,7 @@ Hi there! 👋 I'm M Suraj Kumar
 Self-taught Software Dev & Designer with an artist's touch.
 ------------------------------------------------------------
 
-As a **Full Stack Developer** and **Freelance Artist**, I'm on a mission to blend technical innovation with artistic flair, crafting digital experiences that truly resonate. Currently **pursuing my Master of Computer Applications (MCA) at Amrita Vishwa Vidyapeetham (Expected March 2026)**, I'm relentlessly expanding my expertise to solve complex challenges and drive impactful solutions in software engineering.
+As a **Software Developer** and **Freelance Artist**, I'm on a mission to blend technical innovation with artistic flair, crafting digital experiences that truly resonate. Currently **pursuing my Master of Computer Applications (MCA) at Amrita Vishwa Vidyapeetham (Expected March 2026)**, I'm relentlessly expanding my expertise to solve complex challenges and drive impactful solutions in software engineering.
 
 **My Impact & Highlights:**
 
